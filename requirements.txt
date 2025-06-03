@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+groq>=0.4.1
+PyPDF2>=3.0.1
+python-docx>=0.8.11
+python-pptx>=0.6.21
+httpx>=0.24.1
+llama-index>=0.9.0
+llama-index-indices-managed-llama-cloud>=0.1.0
+requests>=2.31.0
+python-dotenv>=1.0.0 
